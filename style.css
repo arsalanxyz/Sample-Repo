@@ -1,6 +1,8 @@
-*{
-    box-sizing: border-box;
-}
-h2{
-    border: 2px solid;
+h1{
+    background-color: aqua;
+    font-size: larger;
+    width:300px;
+    text-align: center;
+    
+
 }
